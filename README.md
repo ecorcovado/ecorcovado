@@ -12,7 +12,6 @@ This GitHub serves as an active technical log where I document:
 ### Current Focus (2026)
 * Completing the TryHackMe SOC Level 1 Path
 * Studying Windows Event Logs and Linux fundamentals
-* Enterprise environment simulation via EQC Diploma
 * Developing foundational Python and SQL skills for data parsing
 
 ### Technical Stack
